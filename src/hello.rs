@@ -4,4 +4,4 @@ fn main() {
     println!("Hello world!");
 // We use a semicolon to end the instruction following our macro of println!.
 }
-// This final brack closes the function's parameters and ends the main fuction.
+// This final bracket closes the function's parameters and ends the main fuction.
